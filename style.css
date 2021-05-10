@@ -1,5 +1,5 @@
 body{
-	background-image: url("images/Bg.jpg");
+	background-image: url("Bg.jpg");
 	/* background-repeat: no-repeat; */
 }
 
@@ -23,7 +23,7 @@ body{
   
   .topnav a:hover {
 	background-color: #bbb;
-	color: black;
+	color: rgb(245, 237, 237);
   }
 
   .topnav-right {
@@ -81,7 +81,7 @@ body{
 	height:180px;
 	border: none;
 	background-color:#e2062c;
-	color:black;
+	color:rgb(250, 245, 245);
 	font-size: 25px;
 	font-family: cursive;
   }
@@ -120,7 +120,7 @@ ol.menulist>li
  div.card {
     flex: 0 0 30%;
 	box-sizing: border-box;
-	color:black;
+	color:rgb(253, 251, 251);
 	margin: 0.5rem .18em;
 	background-color: antiquewhite;
 	align-items: center;
