@@ -1,5 +1,8 @@
 menu_list_array =[
     "chicken tandoori pizza",
+    " Neapolitan Pizza",
+    "Sicilian Pizza",
+    "Sicilian Pizza",
     "veg superem pizza",
     " panneer tikka pizza",
     " delux veggi pizza",

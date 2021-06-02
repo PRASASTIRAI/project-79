@@ -50,7 +50,7 @@ body{
   }
   #menu_list{
 	background-color:#f5c71a;
-	color:black; 
+	color:rgb(255, 255, 255); 
 	width: 200px;
 	border: none;
   }
